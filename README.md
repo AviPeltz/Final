@@ -1,1 +1,1 @@
-# hackathon non-finished yet
+# hackathon non-finished project
